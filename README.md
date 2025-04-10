@@ -81,7 +81,7 @@ Soy un futuro **Desarrollador de Aplicaciones Multiplataforma** con una sólida 
 
 📧 alejandrom8607@gmail.com  
 📍 Cadrete (Zaragoza)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) · [GitHub](https://github.com/tuusuario) · [Mi Portfolio](https://tuportfolio.com)
+🔗 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/javier-mosquera-astudillo/)) · [Mi Portfolio](https://javiermosquera.es)
 
 ---
 

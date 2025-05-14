@@ -6,7 +6,7 @@
 
 ### 👨‍💼 Sobre mí
 
-Soy un futuro **Desarrollador de Aplicaciones Multiplataforma** con una sólida base en programación, cloud computing, automatización y marketing digital. Me apasiona **crear soluciones inteligentes que conecten datos, procesos y personas**.
+**Desarrollador de Aplicaciones Multiplataforma** con una sólida base en programación, cloud computing, automatización y marketing digital. Me apasiona **crear soluciones inteligentes que conecten datos, procesos y personas**.
 
 🎯 Experiencia práctica en:
 - Desarrollo web completo
